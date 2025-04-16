@@ -38,3 +38,4 @@
 - **HTML/CSS** et **Tailwind CSS** pour le design responsive
 
 ### 💾 Bases de données
+- **MySQL**, **PostgreSQL** et **MongoDB**
